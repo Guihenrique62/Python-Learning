@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a8f957-b021-4555-b778-9c61fd11d0d7" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/Aula06_TiposPrimitivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex004_Dissecando_Variavel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/Aula07_OperadoresAritimeticos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex002_Porcentagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex005_AntecessorSucessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex006_RaizQuadrada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex007_MediaAritimetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex008_ConversorDeMedidas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex009_Tabuada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex010_ConversorDeMoedas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex011_AreaQuadrada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex013_aumentoFunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex014_ConversorTemp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex015_AluguelCarros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex004_Dissecando_Variavel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex004_Dissecando_Variavel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +50,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Aula06_TiposPrimitivos.executor": "Run",
+    "Python.Aula07_OperadoresAritimeticos.executor": "Run",
     "Python.aula01.executor": "Run",
+    "Python.ex002_Porcentagem.executor": "Run",
     "Python.ex004_Dissecando_Variavel.executor": "Run",
+    "Python.ex005_AntecessorSucessor.executor": "Run",
+    "Python.ex006_RaizQuadrada.executor": "Run",
+    "Python.ex007_MediaAritimetica.executor": "Run",
+    "Python.ex008_ConversorDeMedidas.executor": "Run",
+    "Python.ex009_Tabuada.executor": "Run",
+    "Python.ex010_ConversorDeMoedas.executor": "Run",
+    "Python.ex011_AreaQuadrada.executor": "Run",
+    "Python.ex013_aumentoFunc.executor": "Run",
+    "Python.ex014_ConversorTemp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
