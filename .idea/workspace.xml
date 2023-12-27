@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a8f957-b021-4555-b778-9c61fd11d0d7" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/Modulos/ex016_quebrandoNumero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulos/ex017_Hipotenusa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulos/ex018_SenoCossenoTangente.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex014_ConversorTemp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex014_ConversorTemp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulos/Aula08_Modulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulos/Aula08_Modulos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +54,7 @@
     "Python.ex014_ConversorTemp.executor": "Run",
     "Python.ex015_AluguelCarros.executor": "Run",
     "Python.ex016_quebrandoNumero.executor": "Run",
+    "Python.ex017_Hipotenusa.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
