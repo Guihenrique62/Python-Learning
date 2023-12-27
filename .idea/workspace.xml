@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a8f957-b021-4555-b778-9c61fd11d0d7" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/Aula07_OperadoresAritimeticos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex002_Porcentagem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex005_AntecessorSucessor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex006_RaizQuadrada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex007_MediaAritimetica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex008_ConversorDeMedidas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex009_Tabuada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex010_ConversorDeMoedas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex011_AreaQuadrada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex013_aumentoFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex014_ConversorTemp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex015_AluguelCarros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulos/Aula08_Modulos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex004_Dissecando_Variavel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex004_Dissecando_Variavel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex015_AluguelCarros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex015_AluguelCarros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +40,7 @@
   "keyToString": {
     "Python.Aula06_TiposPrimitivos.executor": "Run",
     "Python.Aula07_OperadoresAritimeticos.executor": "Run",
+    "Python.Aula08_Modulos.executor": "Run",
     "Python.aula01.executor": "Run",
     "Python.ex002_Porcentagem.executor": "Run",
     "Python.ex004_Dissecando_Variavel.executor": "Run",
@@ -63,6 +53,7 @@
     "Python.ex011_AreaQuadrada.executor": "Run",
     "Python.ex013_aumentoFunc.executor": "Run",
     "Python.ex014_ConversorTemp.executor": "Run",
+    "Python.ex015_AluguelCarros.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -70,7 +61,7 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Aula08_Modulos">
     <configuration name="Aula06_TiposPrimitivos" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
@@ -94,6 +85,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Aula08_Modulos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aprendizados" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulos/Aula08_Modulos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex015_AluguelCarros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aprendizados" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dados e Operadores Aritimeticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dados e Operadores Aritimeticos/ex015_AluguelCarros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Aula08_Modulos" />
+        <item itemvalue="Python.ex015_AluguelCarros" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
