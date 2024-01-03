@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a8f957-b021-4555-b778-9c61fd11d0d7" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/Modulos/Aula09_ManipulandoTextos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulos/ex019_sorteandoItem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulos/ex020_SorteandoOrdem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulos/ex021_TocandoMP3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulos/ex018_SenoCossenoTangente.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulos/ex018_SenoCossenoTangente.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,37 +34,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Aula06_TiposPrimitivos.executor": "Run",
-    "Python.Aula07_OperadoresAritimeticos.executor": "Run",
-    "Python.Aula08_Modulos.executor": "Run",
-    "Python.aula01.executor": "Run",
-    "Python.ex002_Porcentagem.executor": "Run",
-    "Python.ex004_Dissecando_Variavel.executor": "Run",
-    "Python.ex005_AntecessorSucessor.executor": "Run",
-    "Python.ex006_RaizQuadrada.executor": "Run",
-    "Python.ex007_MediaAritimetica.executor": "Run",
-    "Python.ex008_ConversorDeMedidas.executor": "Run",
-    "Python.ex009_Tabuada.executor": "Run",
-    "Python.ex010_ConversorDeMoedas.executor": "Run",
-    "Python.ex011_AreaQuadrada.executor": "Run",
-    "Python.ex013_aumentoFunc.executor": "Run",
-    "Python.ex014_ConversorTemp.executor": "Run",
-    "Python.ex015_AluguelCarros.executor": "Run",
-    "Python.ex016_quebrandoNumero.executor": "Run",
-    "Python.ex017_Hipotenusa.executor": "Run",
-    "Python.ex018_SenoCossenoTangente.executor": "Run",
-    "Python.ex019_sorteandoItem.executor": "Run",
-    "Python.ex020_SorteandoOrdem.executor": "Run",
-    "Python.ex021_TocandoMP3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/guilherme.santos/PycharmProjects/Python-Learning",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Aula06_TiposPrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula07_OperadoresAritimeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula08_Modulos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002_Porcentagem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004_Dissecando_Variavel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex005_AntecessorSucessor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex006_RaizQuadrada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex007_MediaAritimetica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex008_ConversorDeMedidas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009_Tabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex010_ConversorDeMoedas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex011_AreaQuadrada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex013_aumentoFunc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex014_ConversorTemp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex015_AluguelCarros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex016_quebrandoNumero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex017_Hipotenusa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex018_SenoCossenoTangente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex019_sorteandoItem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex020_SorteandoOrdem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021_TocandoMP3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilherme.santos/PycharmProjects/Python-Learning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.ex021_TocandoMP3">
     <configuration name="Aula06_TiposPrimitivos" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Aprendizados" />
