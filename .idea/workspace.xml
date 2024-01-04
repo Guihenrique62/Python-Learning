@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a8f957-b021-4555-b778-9c61fd11d0d7" name="Changes" comment="first step">
+      <change afterPath="$PROJECT_DIR$/Modulos/ex026_PrimeiraUltimaOcorrencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/Aula10_Condicoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex028_JogoAdvinha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex029_RadarEletronico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex030_Par_ou_impar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex031_CustoViagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex032_AnoBissexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex033_MaioreMenor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex034_AumentoMultiplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicional/ex035_Triangulo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulos/ex024_NomeDeCidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulos/ex024_NomeDeCidade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulos/ex025_NomedePessoa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulos/ex025_NomedePessoa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,38 +46,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula06_TiposPrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula07_OperadoresAritimeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula08_Modulos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002_Porcentagem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004_Dissecando_Variavel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005_AntecessorSucessor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006_RaizQuadrada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007_MediaAritimetica.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008_ConversorDeMedidas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009_Tabuada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex010_ConversorDeMoedas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex011_AreaQuadrada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013_aumentoFunc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014_ConversorTemp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex015_AluguelCarros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex016_quebrandoNumero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex017_Hipotenusa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex018_SenoCossenoTangente.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019_sorteandoItem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020_SorteandoOrdem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021_TocandoMP3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilherme.santos/PycharmProjects/Python-Learning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula06_TiposPrimitivos.executor": "Run",
+    "Python.Aula07_OperadoresAritimeticos.executor": "Run",
+    "Python.Aula08_Modulos.executor": "Run",
+    "Python.Aula10_Condicoes.executor": "Run",
+    "Python.aula01.executor": "Run",
+    "Python.ex002_Porcentagem.executor": "Run",
+    "Python.ex004_Dissecando_Variavel.executor": "Run",
+    "Python.ex005_AntecessorSucessor.executor": "Run",
+    "Python.ex006_RaizQuadrada.executor": "Run",
+    "Python.ex007_MediaAritimetica.executor": "Run",
+    "Python.ex008_ConversorDeMedidas.executor": "Run",
+    "Python.ex009_Tabuada.executor": "Run",
+    "Python.ex010_ConversorDeMoedas.executor": "Run",
+    "Python.ex011_AreaQuadrada.executor": "Run",
+    "Python.ex013_aumentoFunc.executor": "Run",
+    "Python.ex014_ConversorTemp.executor": "Run",
+    "Python.ex015_AluguelCarros.executor": "Run",
+    "Python.ex016_quebrandoNumero.executor": "Run",
+    "Python.ex017_Hipotenusa.executor": "Run",
+    "Python.ex018_SenoCossenoTangente.executor": "Run",
+    "Python.ex019_sorteandoItem.executor": "Run",
+    "Python.ex020_SorteandoOrdem.executor": "Run",
+    "Python.ex021_TocandoMP3.executor": "Run",
+    "Python.ex026_PrimeiraUltimaOcorrencia.executor": "Run",
+    "Python.ex028_JogoAdvinha.executor": "Run",
+    "Python.ex029_RadarEletronico.executor": "Run",
+    "Python.ex030_Par_ou_impar.executor": "Run",
+    "Python.ex031_CustoViagem.executor": "Run",
+    "Python.ex032_AnoBissexto.executor": "Run",
+    "Python.ex033_MaioreMenor.executor": "Run",
+    "Python.ex034_AumentoMultiplo.executor": "Run",
+    "Python.ex035_Triangulo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/guilherme.santos/PycharmProjects/Python-Learning",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
-  <component name="RunManager" selected="Python.ex021_TocandoMP3">
+}]]></component>
+  <component name="RunManager" selected="Python.ex035_Triangulo">
     <configuration name="Aula06_TiposPrimitivos" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
@@ -89,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex017_Hipotenusa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex031_CustoViagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/condicional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulos/ex017_Hipotenusa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicional/ex031_CustoViagem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex018_SenoCossenoTangente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex032_AnoBissexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/condicional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulos/ex018_SenoCossenoTangente.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicional/ex032_AnoBissexto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex019_sorteandoItem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex033_MaioreMenor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/condicional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulos/ex019_sorteandoItem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicional/ex033_MaioreMenor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex020_SorteandoOrdem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex034_AumentoMultiplo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/condicional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulos/ex020_SorteandoOrdem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicional/ex034_AumentoMultiplo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex021_TocandoMP3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex035_Triangulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aprendizados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/condicional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulos/ex021_TocandoMP3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicional/ex035_Triangulo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex021_TocandoMP3" />
-        <item itemvalue="Python.ex020_SorteandoOrdem" />
-        <item itemvalue="Python.ex019_sorteandoItem" />
-        <item itemvalue="Python.ex018_SenoCossenoTangente" />
-        <item itemvalue="Python.ex017_Hipotenusa" />
+        <item itemvalue="Python.ex035_Triangulo" />
+        <item itemvalue="Python.ex033_MaioreMenor" />
+        <item itemvalue="Python.ex032_AnoBissexto" />
+        <item itemvalue="Python.ex034_AumentoMultiplo" />
+        <item itemvalue="Python.ex031_CustoViagem" />
       </list>
     </recent_temporary>
   </component>
@@ -246,6 +268,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first step" />
-    <option name="LAST_COMMIT_MESSAGE" value="first step" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

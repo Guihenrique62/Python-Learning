@@ -1,5 +1,4 @@
-city = input('Digite o nome de uma cidade: ')
+city = input('Digite o nome de uma cidade: ').strip()
 
-res = city[0:].find('santo')
 
-print(res)
+print(city[:5].upper() == 'SANTO')
